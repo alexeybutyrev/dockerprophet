@@ -6,12 +6,12 @@ Example of builing docker container with Prophet package. By some reasont it was
 
 # Points of Contact
 
-Alexey, Ken
+[Alexey](butirev@gmail.com)
 
 # How to install
 
 ```{bash}
- git clone git@gitlab.eng.roku.com:abutyrev/dockerrprophet.git
+ git clone git@github.com:alexeybutyrev/dockerprophet.git 
  cd dockerrprophet
  docker build -t rprophet .
 ```
